@@ -128,11 +128,6 @@ ros2 run drive_control drive_control_node
 
 ---
 
-## 📬 Contact
-
-For questions or contributions, feel free to open an [Issue](https://github.com/Pakgard007/ZED-2i_Lane_Object_Detection_/issues) or [Pull Request](https://github.com/Pakgard007/ZED-2i_Lane_Object_Detection_/pulls).
-
----
 
 ## 🎬 Demo Video
 
